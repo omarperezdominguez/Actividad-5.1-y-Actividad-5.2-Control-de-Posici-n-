@@ -18,7 +18,7 @@ hx(1)= x1(1);
 hy(1)= y1(1);
 
 %3 WAYPOINTS DE LA FIGURA %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-% Pega aquí tus puntos
+
 waypoints = [
     1, 2;
     0, 8;
