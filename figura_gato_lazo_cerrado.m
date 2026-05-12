@@ -142,7 +142,6 @@ for k=1:N
 end
 
 %%%%%%%%%%%%%%%%%%%%% SIMULACION VIRTUAL 3D %%%%%%%%%%%%%%%%%%%%%%
-% === ESTA SECCIÓN ES IDÉNTICA AL CÓDIGO DEL PROFE ===
 
 scene=figure;
 set(scene,'Color','white');
